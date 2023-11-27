@@ -5,7 +5,9 @@
     <img src="./Assets/Method_Overview.pdf" alt="Framework" />
 </figure> -->
 
-![Method Overview](./Assets/Method_Overview.png)
+<!-- ![Method Overview](./Assets/Method_Overview.png) -->
+
+<embed src="./Assets/Method_Overview.pdf" width="800px" height="800px" />
 
 ## <a name="bibtex">Citing ASLP</a>
 
