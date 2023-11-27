@@ -11,21 +11,23 @@ Download the training dataset: <a target="_blank" href="https://www.kaggle.com/d
 
 **The structure of dataset directory is illustrated as below:**
 ```
-|-- Dataset
-|-- |-- Train
-|-- |-- |-- DUTS-TR
-|-- |-- |-- |-- Image
-|-- |-- |-- |-- GT
-|-- |-- Test
-|-- |-- |-- DUTS-TE
-|-- |-- |-- DUT-OMRON
-|-- |-- |-- PASCAL-S
-|-- |-- |-- SOD
-|-- |-- |-- HKU-IS
-|-- |-- |-- ECSSD
-|-- |-- |-- DTD_Texture_500
+├── Dataset
+│   ├── DUTS-TR-Train.txt
+│   ├── DUTS-TR-Validation.txt
+│   ├── Train
+│   │   ├── DUTS-TR
+│   │   │   ├── Image
+│   │   │   ├── GT
+│   ├── Test
+│   │   ├── DUTS-TE
+│   │   ├── DUT-OMRON
+│   │   ├── PASCAL-S
+│   │   ├── SOD
+│   │   ├── HKU-IS
+│   │   ├── ECSSD
+│   │   ├── DTD_Texture_500
 ```
-
+The subdirectory structure of the testing dataset follows that of the training dataset.
 
 
 ## <a name="bibtex">Citing ASLP</a>
