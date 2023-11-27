@@ -1,7 +1,7 @@
 # Model Calibration in Dense Classification with Adaptive Label Perturbation - Official Implementation<br>
 [<a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Model_Calibration_in_Dense_Classification_with_Adaptive_Label_Perturbation_ICCV_2023_paper.pdf">Paper</a>]
-<a href="bibtex">[Citation]</a>
-<a href="BibTex">[Citation]</a>
+<a href="#bibtex">[Citation]</a>
+<a href="#BibTex">[Citation]</a>
 
 
 
