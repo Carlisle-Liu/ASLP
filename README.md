@@ -2,7 +2,7 @@
 [<a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Model_Calibration_in_Dense_Classification_with_Adaptive_Label_Perturbation_ICCV_2023_paper.pdf">Paper</a>] [<a href="#bibtex">BibTex</a>]
 
 <figure>
-    <img src="./Method_Overview.pdf" alt="Framework">
+    <img src="Method_Overview.pdf" alt="Framework" />
     <figcaption>Method Overview</figcaption>
 </figure>
 
