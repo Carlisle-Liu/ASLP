@@ -7,7 +7,7 @@
 
 
 
-## <a name="bibtex"></a> Citing ASLP
+## <a name="bibtex">Citing ASLP</a>
 
 If you find this work useful to your research, please consider citing it:
 
