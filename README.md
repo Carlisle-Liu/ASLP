@@ -38,11 +38,15 @@ Download the training dataset: <a target="_blank" href="https://www.kaggle.com/d
 The subdirectory structure of the testing dataset follows that of the training dataset.
 
 
-## Train, Test and Evaluation
+## Train, Test and Evaluate
 To train, test and evaluate the model consecutively, run the following line of code:
 ```
 CUDA_VISIBLE_DEVICES=GOU_ID python main_ASLP.py
 ```
+
+
+## Pretrained Model
+Weight and predicted results of the pretrained model can be downloaded from the [<a target="_blank" href="https://drive.google.com/drive/folders/1Wjn9tdAj4v69zfFc9lqq8xnJ4arXxQnd?usp=share_link">Google Drive</a>].
 
 
 ## <a name="bibtex">Citing ASLP</a>
