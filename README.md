@@ -1,5 +1,5 @@
 # Model Calibration in Dense Classification with Adaptive Label Perturbation<br><sub><sub>Official Pytorch Implementation</sub></sub>
-[<a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Model_Calibration_in_Dense_Classification_with_Adaptive_Label_Perturbation_ICCV_2023_paper.pdf">Paper</a>] [<a href="#bibtex">BibTex</a>]
+[<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Model_Calibration_in_Dense_Classification_with_Adaptive_Label_Perturbation_ICCV_2023_paper.pdf" target="_blank">Paper</a>] [<a href="#bibtex">BibTex</a>]
 
 
 **[Abstract]** *For safety-related applications, it is crucial to produce trustworthy deep neural networks whose prediction is associated with confidence that can represent the likelihood of correctness for subsequent decision-making. Existing dense binary classification models are prone to being over-confident. To improve model calibration, we propose Adaptive Stochastic Label Perturbation (ASLP) which
