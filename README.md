@@ -12,8 +12,6 @@ learns a unique label perturbation level for each training image. ASLP employs o
 - cuda 11.3
 - pytorch 1.11.0
 - torchvision 0.12.0
-- opencv 4.5.5.64
-- tqdm 4.63.1
 
 
 ## Prepare the Data
@@ -38,6 +36,13 @@ Download the training dataset: <a target="_blank" href="https://www.kaggle.com/d
 │   │   ├── DTD_Texture_500
 ```
 The subdirectory structure of the testing dataset follows that of the training dataset.
+
+
+## Train, Test and Evaluation
+To train, test and evaluate the model consecutively, run the following line of code:
+```
+CUDA_VISIBLE_DEVICES=GOU_ID python main_ASLP.py
+```
 
 
 ## <a name="bibtex">Citing ASLP</a>
